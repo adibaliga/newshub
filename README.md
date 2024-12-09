@@ -4,14 +4,6 @@
 
 NewsHub is a web application that allows you to search and filter news articles from various sources. It uses the NewsAPI, The Guardian, and The New York Times APIs to fetch and display news articles.
 
-## Features
-
-- Search for news articles by title, description, or content.
-- Filter news articles by category, source, author, and date.
-- Save your favorite news articles to your account.
-- View your saved news articles in the "Saved" tab.
-- Personalize your feed by selecting your favorite categories, sources, authors, and dates.
-
 ## Installation
 
 1. Clone the repository:
